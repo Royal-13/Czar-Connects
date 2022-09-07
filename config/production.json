@@ -1,5 +1,5 @@
 {
-    "mongoURI": "mongodb+srv://MetaMan123:T7hS9khfJyR6uGXn@cluster0.fpnzqqu.mongodb.net/?retryWrites=true&w=majority",
-    "jwtSecret": "AC1C3E5820F38350B1A76F51C89149CFF10B9E672B9D5096907B1EB9ECCDC8C1",
-    "githubToken": "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"
+    "mongoURI": "MONGOURI HERE",
+    "jwtSecret": "JWT SECRET KEY",
+    "githubToken": "GitHub Token"
   }
